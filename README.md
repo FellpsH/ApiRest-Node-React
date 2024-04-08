@@ -33,20 +33,16 @@ npm install
 cd frontend
 npm install
 
-
-Para adicionar títulos em negrito, listas e trechos de código ao seu README no GitHub, você pode usar a linguagem de marcação Markdown. Aqui está um exemplo de como você pode formatar esses elementos:
-
 markdown
 Copy code
 ## **Instalação**
 
 Clone este repositório em sua máquina local utilizando o comando:
 
-```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 Navegue até o diretório do projeto:
 
-bash
+
 Copy code
 cd seu-repositorio
 Instale as dependências do backend e do frontend:
