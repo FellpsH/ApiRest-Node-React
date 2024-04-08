@@ -33,8 +33,6 @@ npm install
 cd frontend
 npm install
 
-markdown
-Copy code
 ## **Instalação**
 
 Clone este repositório em sua máquina local utilizando o comando:
